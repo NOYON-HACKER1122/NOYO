@@ -1,4 +1,0 @@
-requests
-pyotp
-beautifulsoup4
-pycountry
